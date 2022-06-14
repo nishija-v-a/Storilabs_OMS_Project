@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Default_suite" class="navigator-link">
+              <span class="suite-name border-passed">Default suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Default_suite" class="navigator-link ">
+                    <span>C:\Users\Nishija\AppData\Local\Temp\testng-eclipse-92629607\testng-customsuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Default_suite" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Default_suite" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Default_suite" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Default_suite" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Default_suite" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Default_suite" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">30 methods,   30 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods passed suite-Default_suite"> (hide)</a> <!-- hide-methods passed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods passed suite-Default_suite"> (show)</a> <!-- show-methods passed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Default_suite">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="Createorder_Test">Createorder_Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="CustomerReferenceTest">CustomerReferenceTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="DeliveryChannelTest">DeliveryChannelTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="DeliveryDateTest">DeliveryDateTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="DispatchDateTest">DispatchDateTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="ExcelTest">ExcelTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="Manageorder_Test">Manageorder_Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="NavigateToSalesOrdersTest">NavigateToSalesOrdersTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OMSFindOrdersDisplayTest">OMSFindOrdersDisplayTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OMSSalesOrdersTest">OMSSalesOrdersTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderCancelAndRejectTest">OrderCancelAndRejectTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderDisplayNameTest">OrderDisplayNameTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderEditTest">OrderEditTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderEntityAssigneeNamesTest">OrderEntityAssigneeNamesTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderFulfillmentCenterTest">OrderFulfillmentCenterTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderGroupsTest">OrderGroupsTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderPaymentStatusTest">OrderPaymentStatusTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderStatusTest">OrderStatusTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderTagTest">OrderTagTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderTypeTest">OrderTypeTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="OrderlabelTest">OrderlabelTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="SalesChannelTest">SalesChannelTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="loginTest">loginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="loginfunction(  ,   , Please fill out the field)">loginfunction(  ,   , Please fill out the field)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="loginfunction(vt@testvox.com,   , Please fill out the field)">loginfunction(vt@testvox.com,   , Please fill out the field)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="loginfunction(vt@testvox.com, abc, *Incorrect Credentials! Try again)">loginfunction(vt@testvox.com, abc, *Incorrect Credentials! Try again)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="loginfunction(abc, vt@testvox.com, *Incorrect Credentials! Try again)">loginfunction(abc, vt@testvox.com, *Incorrect Credentials! Try again)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="loginfunction(vt@testvox.com, vt@testvox.com,  )">loginfunction(vt@testvox.com, vt@testvox.com,  )</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="loginfunction(abc, def, *Incorrect Credentials! Try again)">loginfunction(abc, def, *Incorrect Credentials! Try again)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Default_suite" title="OMS_Test.OMS_STORI_Test" class="method navigator-link" hash-for-method="loginfunction( , vt@testvox.com, Please fill out the field)">loginfunction( , vt@testvox.com, Please fill out the field)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Default_suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Default_suite" class="panel Default_suite">
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">OMS_Test.OMS_STORI_Test</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Createorder_Test">
+                  </a> <!-- Createorder_Test -->
+                  <span class="method-name">Createorder_Test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="CustomerReferenceTest">
+                  </a> <!-- CustomerReferenceTest -->
+                  <span class="method-name">CustomerReferenceTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="DeliveryChannelTest">
+                  </a> <!-- DeliveryChannelTest -->
+                  <span class="method-name">DeliveryChannelTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="DeliveryDateTest">
+                  </a> <!-- DeliveryDateTest -->
+                  <span class="method-name">DeliveryDateTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="DispatchDateTest">
+                  </a> <!-- DispatchDateTest -->
+                  <span class="method-name">DispatchDateTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ExcelTest">
+                  </a> <!-- ExcelTest -->
+                  <span class="method-name">ExcelTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Manageorder_Test">
+                  </a> <!-- Manageorder_Test -->
+                  <span class="method-name">Manageorder_Test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="NavigateToSalesOrdersTest">
+                  </a> <!-- NavigateToSalesOrdersTest -->
+                  <span class="method-name">NavigateToSalesOrdersTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OMSFindOrdersDisplayTest">
+                  </a> <!-- OMSFindOrdersDisplayTest -->
+                  <span class="method-name">OMSFindOrdersDisplayTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OMSSalesOrdersTest">
+                  </a> <!-- OMSSalesOrdersTest -->
+                  <span class="method-name">OMSSalesOrdersTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderCancelAndRejectTest">
+                  </a> <!-- OrderCancelAndRejectTest -->
+                  <span class="method-name">OrderCancelAndRejectTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderDisplayNameTest">
+                  </a> <!-- OrderDisplayNameTest -->
+                  <span class="method-name">OrderDisplayNameTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderEditTest">
+                  </a> <!-- OrderEditTest -->
+                  <span class="method-name">OrderEditTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderEntityAssigneeNamesTest">
+                  </a> <!-- OrderEntityAssigneeNamesTest -->
+                  <span class="method-name">OrderEntityAssigneeNamesTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderFulfillmentCenterTest">
+                  </a> <!-- OrderFulfillmentCenterTest -->
+                  <span class="method-name">OrderFulfillmentCenterTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderGroupsTest">
+                  </a> <!-- OrderGroupsTest -->
+                  <span class="method-name">OrderGroupsTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderPaymentStatusTest">
+                  </a> <!-- OrderPaymentStatusTest -->
+                  <span class="method-name">OrderPaymentStatusTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderStatusTest">
+                  </a> <!-- OrderStatusTest -->
+                  <span class="method-name">OrderStatusTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderTagTest">
+                  </a> <!-- OrderTagTest -->
+                  <span class="method-name">OrderTagTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderTypeTest">
+                  </a> <!-- OrderTypeTest -->
+                  <span class="method-name">OrderTypeTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrderlabelTest">
+                  </a> <!-- OrderlabelTest -->
+                  <span class="method-name">OrderlabelTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SalesChannelTest">
+                  </a> <!-- SalesChannelTest -->
+                  <span class="method-name">SalesChannelTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginTest">
+                  </a> <!-- loginTest -->
+                  <span class="method-name">loginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginfunction(  ,   , Please fill out the field)">
+                  </a> <!-- loginfunction(  ,   , Please fill out the field) -->
+                  <span class="method-name">loginfunction</span>
+                  <span class="parameters">(  ,   , Please fill out the field)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginfunction(vt@testvox.com,   , Please fill out the field)">
+                  </a> <!-- loginfunction(vt@testvox.com,   , Please fill out the field) -->
+                  <span class="method-name">loginfunction</span>
+                  <span class="parameters">(vt@testvox.com,   , Please fill out the field)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginfunction(vt@testvox.com, abc, *Incorrect Credentials! Try again)">
+                  </a> <!-- loginfunction(vt@testvox.com, abc, *Incorrect Credentials! Try again) -->
+                  <span class="method-name">loginfunction</span>
+                  <span class="parameters">(vt@testvox.com, abc, *Incorrect Credentials! Try again)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginfunction(abc, vt@testvox.com, *Incorrect Credentials! Try again)">
+                  </a> <!-- loginfunction(abc, vt@testvox.com, *Incorrect Credentials! Try again) -->
+                  <span class="method-name">loginfunction</span>
+                  <span class="parameters">(abc, vt@testvox.com, *Incorrect Credentials! Try again)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginfunction(vt@testvox.com, vt@testvox.com,  )">
+                  </a> <!-- loginfunction(vt@testvox.com, vt@testvox.com,  ) -->
+                  <span class="method-name">loginfunction</span>
+                  <span class="parameters">(vt@testvox.com, vt@testvox.com,  )</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginfunction(abc, def, *Incorrect Credentials! Try again)">
+                  </a> <!-- loginfunction(abc, def, *Incorrect Credentials! Try again) -->
+                  <span class="method-name">loginfunction</span>
+                  <span class="parameters">(abc, def, *Incorrect Credentials! Try again)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginfunction( , vt@testvox.com, Please fill out the field)">
+                  </a> <!-- loginfunction( , vt@testvox.com, Please fill out the field) -->
+                  <span class="method-name">loginfunction</span>
+                  <span class="parameters">( , vt@testvox.com, Please fill out the field)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-passed -->
+        </div> <!-- panel Default_suite -->
+        <div panel-name="test-xml-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\Nishija\AppData\Local\Temp\testng-eclipse-92629607\testng-customsuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Default suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;Default test&quot; verbose=&quot;2&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;OMS_Test.OMS_STORI_Test&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Default test --&gt;
+&lt;/suite&gt; &lt;!-- Default suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Default test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Default_suite');
+function tableData_Default_suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(30);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'Createorder_Test')
+data.setCell(0, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(0, 3, 51805);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'OrderEditTest')
+data.setCell(1, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(1, 3, 4087);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'OrderCancelAndRejectTest')
+data.setCell(2, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(2, 3, 3896);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'CustomerReferenceTest')
+data.setCell(3, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(3, 3, 3841);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'OrderTagTest')
+data.setCell(4, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(4, 3, 3290);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'DeliveryChannelTest')
+data.setCell(5, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(5, 3, 3177);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'DispatchDateTest')
+data.setCell(6, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(6, 3, 3135);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'OrderStatusTest')
+data.setCell(7, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(7, 3, 3101);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'OrderDisplayNameTest')
+data.setCell(8, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(8, 3, 3037);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'OrderTypeTest')
+data.setCell(9, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(9, 3, 2822);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'DeliveryDateTest')
+data.setCell(10, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(10, 3, 2650);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'OrderEntityAssigneeNamesTest')
+data.setCell(11, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(11, 3, 2391);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'OrderPaymentStatusTest')
+data.setCell(12, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(12, 3, 1681);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'SalesChannelTest')
+data.setCell(13, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(13, 3, 1551);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'OMSSalesOrdersTest')
+data.setCell(14, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(14, 3, 1322);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'OrderFulfillmentCenterTest')
+data.setCell(15, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(15, 3, 1214);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'ExcelTest')
+data.setCell(16, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(16, 3, 960);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'Manageorder_Test')
+data.setCell(17, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(17, 3, 940);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'OMSFindOrdersDisplayTest')
+data.setCell(18, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(18, 3, 615);
+data.setCell(19, 0, 19)
+data.setCell(19, 1, 'loginfunction')
+data.setCell(19, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(19, 3, 579);
+data.setCell(20, 0, 20)
+data.setCell(20, 1, 'loginfunction')
+data.setCell(20, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(20, 3, 526);
+data.setCell(21, 0, 21)
+data.setCell(21, 1, 'loginfunction')
+data.setCell(21, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(21, 3, 470);
+data.setCell(22, 0, 22)
+data.setCell(22, 1, 'loginfunction')
+data.setCell(22, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(22, 3, 463);
+data.setCell(23, 0, 23)
+data.setCell(23, 1, 'loginfunction')
+data.setCell(23, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(23, 3, 422);
+data.setCell(24, 0, 24)
+data.setCell(24, 1, 'OrderGroupsTest')
+data.setCell(24, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(24, 3, 416);
+data.setCell(25, 0, 25)
+data.setCell(25, 1, 'loginfunction')
+data.setCell(25, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(25, 3, 410);
+data.setCell(26, 0, 26)
+data.setCell(26, 1, 'loginfunction')
+data.setCell(26, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(26, 3, 374);
+data.setCell(27, 0, 27)
+data.setCell(27, 1, 'OrderlabelTest')
+data.setCell(27, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(27, 3, 345);
+data.setCell(28, 0, 28)
+data.setCell(28, 1, 'NavigateToSalesOrdersTest')
+data.setCell(28, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(28, 3, 297);
+data.setCell(29, 0, 29)
+data.setCell(29, 1, 'loginTest')
+data.setCell(29, 2, 'OMS_Test.OMS_STORI_Test')
+data.setCell(29, 3, 182);
+window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Default_suite">
+              </div> <!-- times-div-Default_suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">OMS_Test.OMS_STORI_Test</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">suiteSetup</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="test-method">
+                <span class="method-name">loginfunction(vt@testvox.com,   , Please fill out the field)</span>
+                <span class="method-start">10600 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginfunction( , vt@testvox.com, Please fill out the field)</span>
+                <span class="method-start">11300 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginfunction(  ,   , Please fill out the field)</span>
+                <span class="method-start">11896 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginfunction(vt@testvox.com, abc, *Incorrect Credentials! Try again)</span>
+                <span class="method-start">12284 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginfunction(abc, vt@testvox.com, *Incorrect Credentials! Try again)</span>
+                <span class="method-start">12697 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginfunction(abc, def, *Incorrect Credentials! Try again)</span>
+                <span class="method-start">13180 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginfunction(vt@testvox.com, vt@testvox.com,  )</span>
+                <span class="method-start">13650 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginTest</span>
+                <span class="method-start">14083 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">Manageorder_Test</span>
+                <span class="method-start">14281 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">Createorder_Test</span>
+                <span class="method-start">15233 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OMSFindOrdersDisplayTest</span>
+                <span class="method-start">67043 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">CustomerReferenceTest</span>
+                <span class="method-start">67661 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderTypeTest</span>
+                <span class="method-start">71507 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderStatusTest</span>
+                <span class="method-start">74338 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderGroupsTest</span>
+                <span class="method-start">77456 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderlabelTest</span>
+                <span class="method-start">77875 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">SalesChannelTest</span>
+                <span class="method-start">78225 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">DeliveryChannelTest</span>
+                <span class="method-start">79782 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">DispatchDateTest</span>
+                <span class="method-start">82973 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">DeliveryDateTest</span>
+                <span class="method-start">86143 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderEntityAssigneeNamesTest</span>
+                <span class="method-start">88803 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderPaymentStatusTest</span>
+                <span class="method-start">91202 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderTagTest</span>
+                <span class="method-start">92890 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderFulfillmentCenterTest</span>
+                <span class="method-start">96186 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderDisplayNameTest</span>
+                <span class="method-start">97404 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">ExcelTest</span>
+                <span class="method-start">100459 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderEditTest</span>
+                <span class="method-start">101422 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrderCancelAndRejectTest</span>
+                <span class="method-start">105518 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">NavigateToSalesOrdersTest</span>
+                <span class="method-start">109420 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OMSSalesOrdersTest</span>
+                <span class="method-start">109726 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-suite after">
+                <span class="method-name">exit</span>
+                <span class="method-start">111090 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

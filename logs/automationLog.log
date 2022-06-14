@@ -1,0 +1,1863 @@
+01:57:17.352 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:57:20.773 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:57:20.811 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:57:24.746 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+01:57:24.821 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+01:57:27.123 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+01:57:27.225 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+01:57:38.439 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+01:57:38.581 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+01:57:39.359 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+01:57:41.528 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+01:57:42.347 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+01:57:43.526 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+01:57:44.007 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+01:57:44.007 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+01:57:44.204 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+01:57:44.827 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+01:57:44.906 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+01:57:44.907 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+01:57:45.847 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11678
+01:57:46.072 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+01:57:59.896 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+01:58:00.191 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+01:58:00.191 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+01:58:02.200 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+01:58:02.844 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+01:58:14.415 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+06:10:44.858 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:10:48.149 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:10:48.199 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:12:13.088 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:12:16.719 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:12:16.760 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:12:21.834 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:12:21.932 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:12:24.601 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:12:24.669 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:12:35.050 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:12:35.167 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:12:35.922 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:12:37.905 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:12:38.707 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:12:39.663 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:12:40.087 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:12:40.087 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:12:40.320 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:12:40.920 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:12:40.997 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:12:40.997 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:12:41.883 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11681
+06:12:42.105 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:12:56.387 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:12:56.676 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:12:56.677 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:12:58.461 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:12:59.127 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:13:11.032 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+05:18:33.074 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:18:37.175 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:18:37.216 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:18:41.617 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+05:18:41.705 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+05:18:44.255 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+05:18:44.328 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+05:18:55.419 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+05:18:55.577 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+05:18:56.352 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+05:18:58.550 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+05:18:59.362 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+05:19:00.809 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+05:19:01.447 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+05:19:01.447 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+05:19:01.812 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+05:19:02.641 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+05:19:02.742 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+05:19:02.742 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+05:19:03.718 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11687
+05:19:04.047 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+05:19:22.676 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:19:23.080 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+05:19:23.080 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+05:19:25.908 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+05:19:26.732 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+05:19:40.813 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:47:18.249 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:47:22.245 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:47:22.298 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:47:26.646 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+05:47:26.727 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+05:47:29.303 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+05:47:29.385 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+05:47:39.961 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+05:47:40.090 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+05:47:40.867 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+05:47:43.128 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+05:47:43.950 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+05:47:45.282 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+05:47:45.947 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+05:47:45.947 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+05:47:46.281 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+05:47:47.049 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+05:47:47.164 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+05:47:47.165 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+05:47:47.612 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11690
+05:47:47.960 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+05:48:08.535 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:48:08.846 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+05:48:08.846 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+05:48:11.677 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+05:48:12.540 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+05:48:26.554 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:48:26.581 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:48:26.608 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:48:27.465 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:48:28.110 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:48:28.742 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:48:52.695 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+05:48:53.402 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+05:48:53.686 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+05:50:32.475 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:50:36.384 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:50:36.431 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:50:40.765 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+05:50:40.857 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+05:50:43.526 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+05:50:43.603 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+05:50:54.722 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+05:50:54.847 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+05:50:55.625 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+05:50:57.908 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+05:50:58.719 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+05:51:00.094 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+05:51:00.715 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+05:51:00.715 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+05:51:00.955 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+05:51:01.750 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+05:51:01.841 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+05:51:01.842 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+05:51:02.786 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11693
+05:51:03.099 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+05:51:20.663 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:51:21.062 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+05:51:21.062 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+05:51:24.114 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+05:51:25.058 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+05:51:40.809 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:51:40.826 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:51:40.855 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:51:41.826 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:51:42.450 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:51:43.071 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:52:07.010 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+05:52:07.576 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+05:52:07.805 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+05:52:42.277 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:52:46.201 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:52:46.253 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:52:50.753 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+05:52:50.846 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+05:52:53.553 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+05:52:53.631 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+05:53:04.187 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+05:53:04.329 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+05:53:05.124 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+05:53:07.457 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+05:53:08.354 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+05:53:09.634 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+05:53:10.131 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+05:53:10.131 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+05:53:10.414 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+05:53:11.249 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+05:53:11.342 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+05:53:11.342 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+05:53:11.807 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11696
+05:53:12.098 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+05:53:29.708 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:53:30.067 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+05:53:30.067 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+05:53:32.860 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+05:53:33.637 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+05:53:47.818 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:53:47.835 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:53:47.873 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:53:48.730 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:53:49.383 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:53:50.092 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:54:13.897 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+05:54:14.410 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+05:54:14.603 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+05:58:46.937 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:58:50.969 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:58:51.028 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:58:55.456 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+05:58:55.548 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+05:58:58.456 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+05:58:58.536 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+05:59:09.570 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+05:59:09.682 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+05:59:10.460 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+05:59:12.556 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+05:59:13.442 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+05:59:14.819 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+05:59:15.338 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+05:59:15.338 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+05:59:15.585 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+05:59:16.309 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+05:59:16.404 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+05:59:16.404 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+05:59:17.421 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11699
+05:59:17.668 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+05:59:35.053 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:59:35.371 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+05:59:35.371 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+05:59:37.987 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+05:59:38.685 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+05:59:52.396 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:59:52.406 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:59:52.442 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:59:53.245 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:59:53.999 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:59:54.654 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:59:58.629 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+05:59:59.003 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+05:59:59.368 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:00:00.759 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+06:05:28.323 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:05:31.947 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:05:31.988 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:05:35.958 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:05:36.040 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:05:38.338 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:05:38.410 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:05:47.333 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:05:47.463 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:05:48.206 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:05:50.414 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:05:51.223 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:05:52.417 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:05:52.903 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:05:52.903 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:05:53.116 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:05:53.769 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:05:53.853 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:05:53.853 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:05:54.762 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11702
+06:05:55.007 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:06:10.566 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:06:10.881 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:06:10.881 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:06:13.435 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:06:14.086 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:06:26.483 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:06:26.495 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:06:26.531 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:06:27.417 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:06:28.025 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:06:28.581 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:06:32.721 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:06:33.012 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:06:33.251 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:11:00.601 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:11:04.613 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:11:04.666 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:11:08.766 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:11:08.849 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:11:11.172 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:11:11.240 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:11:17.243 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:11:17.414 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:11:18.148 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:11:20.308 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:11:21.126 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:11:22.519 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:11:23.097 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:11:23.097 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:11:23.344 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:11:24.138 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:11:24.242 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:11:24.242 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:11:25.213 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11705
+06:11:25.508 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:11:41.971 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:11:42.290 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:11:42.290 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:11:44.807 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:11:45.453 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:11:57.846 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:11:57.857 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:11:57.891 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:11:58.833 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:11:59.430 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:12:00.023 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:12:04.312 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:12:04.603 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:12:04.814 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:12:06.167 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+06:27:29.757 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:27:33.207 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:27:33.247 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:27:37.208 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:27:37.282 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:27:39.387 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:27:39.451 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:27:45.287 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:27:45.494 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:27:46.130 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:27:48.195 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:27:49.002 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:27:50.282 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:27:50.841 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:27:50.841 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:27:51.085 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:27:51.823 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:27:51.923 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:27:51.923 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:27:52.865 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11708
+06:27:53.143 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:28:09.233 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:28:09.514 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:28:09.514 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:28:12.233 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:28:12.840 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:28:24.590 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:28:24.599 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:28:24.629 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:28:25.341 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:28:26.014 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:28:26.600 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:28:30.092 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:28:30.378 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:28:30.570 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:31:06.266 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:31:11.528 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:31:11.589 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:31:17.350 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:31:17.458 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:31:20.460 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:31:20.569 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:31:26.976 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:31:27.164 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:31:28.168 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:31:30.065 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:31:30.915 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:31:32.342 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:31:33.043 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:31:33.043 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:31:33.307 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:31:34.147 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:31:34.243 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:31:34.243 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:31:35.267 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11711
+06:31:35.605 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:31:56.199 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:31:56.725 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:31:56.725 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:32:01.202 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:32:02.245 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:32:20.612 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:32:20.629 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:32:20.699 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:32:21.748 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:32:22.438 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:32:23.076 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:32:28.670 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:32:29.060 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:32:29.406 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:32:30.873 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+06:33:41.639 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:33:46.485 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:33:46.547 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:33:51.835 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:33:51.938 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:33:54.906 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:33:55.047 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:34:03.481 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:34:03.704 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:34:04.520 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:34:07.596 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:34:08.646 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:34:10.817 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:34:11.813 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:34:11.813 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:34:12.170 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:34:13.263 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:34:13.406 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:34:13.406 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:34:15.053 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11714
+06:34:15.184 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:34:15.424 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:34:15.467 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:34:55.616 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:35:15.694 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:35:35.739 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:35:41.169 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:35:41.466 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:35:42.967 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+06:37:44.687 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:37:48.921 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:37:48.974 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:37:53.710 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:37:53.827 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:37:56.584 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:37:56.668 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:38:02.669 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:38:02.806 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:38:03.573 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:38:05.770 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:38:06.600 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:38:07.842 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:38:08.406 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:38:08.406 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:38:08.641 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:38:09.457 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:38:09.556 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:38:09.556 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:38:10.441 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11715
+06:38:10.767 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:38:33.851 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:38:34.279 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:38:34.280 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:38:37.426 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:38:38.155 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:38:53.112 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:38:53.130 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:38:53.169 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:38:54.143 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:38:54.848 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:38:55.391 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:38:59.877 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:39:00.230 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:39:00.692 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:39:02.177 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+06:44:32.625 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:44:36.189 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:44:36.233 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:44:40.103 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:44:40.186 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:44:42.454 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:44:42.519 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:44:47.730 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:44:47.838 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:44:48.603 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:44:50.763 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:44:51.582 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:44:52.790 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:44:53.404 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:44:53.404 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:44:53.627 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:44:54.408 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:44:54.489 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:44:54.489 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:44:55.395 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11718
+06:44:55.656 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:45:13.135 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:45:13.464 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:45:13.464 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:45:16.444 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:45:17.055 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:45:28.967 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:45:28.979 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:45:29.012 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:45:29.743 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:45:30.327 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:45:31.545 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:45:35.252 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:45:35.510 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:45:35.721 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:45:37.450 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+06:55:21.683 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:56:02.462 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:56:05.772 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:56:05.806 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:56:09.429 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:56:09.500 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:56:11.530 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:56:11.589 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:56:17.330 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:56:17.447 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:56:18.195 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:56:20.279 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:56:21.067 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:56:22.300 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:56:22.990 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:56:22.990 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:56:23.309 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:56:24.104 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:56:24.195 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:56:24.195 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:56:24.665 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11721
+06:56:25.028 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:56:39.593 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:56:39.858 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:56:39.858 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:56:42.834 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:56:43.446 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:56:54.573 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:56:54.588 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:56:54.619 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:56:55.277 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:56:55.861 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:56:56.422 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:56:59.721 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:56:59.993 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:57:00.179 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:57:01.554 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+07:04:04.873 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+07:04:08.192 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+07:04:08.228 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+07:04:11.930 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+07:04:12.000 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+07:04:14.053 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+07:04:14.114 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+07:04:19.815 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+07:04:19.920 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+07:04:20.668 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+07:04:22.997 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+07:04:23.806 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+07:04:25.164 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+07:04:25.802 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+07:04:25.802 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+07:04:26.054 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+07:04:26.849 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+07:04:26.936 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+07:04:26.936 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+07:04:27.843 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11724
+07:04:28.099 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+07:04:43.043 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+07:04:43.311 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+07:04:43.311 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+07:04:46.379 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+07:04:47.000 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+07:04:58.386 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+07:10:33.472 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+07:10:37.184 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+07:10:37.224 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+07:10:41.348 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+07:10:41.425 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+07:10:43.918 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+07:10:43.984 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+07:10:49.591 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+07:10:49.802 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+07:10:50.503 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+07:10:52.726 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+07:10:53.536 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+07:10:54.836 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+07:10:55.343 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+07:10:55.343 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+07:10:55.584 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+07:10:56.468 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+07:10:56.553 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+07:10:56.553 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+07:10:56.973 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11727
+07:10:57.281 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+07:11:14.077 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+07:11:14.445 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+07:11:14.445 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+07:11:17.458 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+07:11:18.280 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+07:11:31.521 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+07:12:24.036 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+07:12:27.982 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+07:12:28.037 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+07:12:31.889 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+07:12:31.965 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+07:12:34.499 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+07:12:34.562 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+07:12:39.107 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+07:12:39.206 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+07:12:40.055 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+07:12:42.230 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+07:12:43.063 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+07:12:44.137 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+07:12:44.614 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+07:12:44.614 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+07:12:44.865 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+07:12:45.895 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+07:12:45.998 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+07:12:45.998 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+07:12:46.946 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11730
+07:12:47.218 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+07:13:03.251 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+07:13:03.564 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+07:13:03.564 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+07:13:07.035 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+07:13:07.748 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+07:13:21.580 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+07:14:56.970 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+07:15:01.388 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+07:15:01.435 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+07:15:05.423 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+07:15:05.495 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+07:15:07.885 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+07:15:07.947 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+07:15:12.560 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+07:15:12.666 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+07:15:13.460 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+07:15:15.815 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+07:15:16.630 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+07:15:17.685 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+07:15:18.168 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+07:15:18.168 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+07:15:18.419 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+07:15:19.155 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+07:15:19.295 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+07:15:19.296 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+07:15:20.227 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11733
+07:15:20.476 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+07:15:36.818 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+07:15:37.146 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+07:15:37.146 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+07:15:40.482 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+07:15:41.343 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+07:15:55.476 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+07:15:55.487 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+07:15:55.515 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+07:15:56.243 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+07:15:57.008 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+07:15:57.611 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+07:16:01.327 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+07:16:01.607 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+07:16:01.838 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+07:16:03.025 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+07:26:03.243 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+07:26:06.578 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+07:26:06.614 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+07:26:10.397 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+07:26:10.470 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+07:26:12.529 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+07:26:12.596 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+07:26:17.113 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+07:26:17.216 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+07:26:17.977 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+07:26:20.154 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+07:26:20.973 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+07:26:22.005 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+07:26:22.479 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+07:26:22.479 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+07:26:22.699 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+07:26:23.852 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+07:26:23.990 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+07:26:23.990 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+07:26:24.896 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11736
+07:26:25.239 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+07:26:41.676 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+07:26:41.937 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+07:26:41.938 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+07:26:43.319 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+07:26:44.000 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+07:26:55.353 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+07:26:55.360 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+07:26:55.390 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+07:26:56.072 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+07:26:56.712 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+07:26:57.322 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+07:27:00.588 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+07:27:00.943 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+07:27:01.149 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+07:27:02.314 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+22:02:08.256 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+22:02:11.745 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+22:02:11.800 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+22:02:15.688 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+22:02:15.766 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+22:02:17.971 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+22:02:18.030 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+22:02:23.722 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+22:02:23.852 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+22:02:24.591 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+22:02:26.825 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+22:02:27.670 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+22:02:29.221 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+22:02:29.783 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+22:02:29.784 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+22:02:30.108 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+22:02:30.859 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+22:02:30.956 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+22:02:30.956 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+22:02:31.900 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11739
+22:02:32.149 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+22:02:47.183 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+22:02:47.535 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+22:02:47.536 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+22:02:49.107 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+22:02:49.713 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+22:03:01.199 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+22:03:01.207 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+22:03:01.251 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+22:03:02.145 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+22:03:02.719 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+22:03:03.276 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+22:03:06.897 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+22:03:07.150 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+22:03:07.374 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+22:03:08.656 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+00:03:27.614 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:03:31.908 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:03:31.957 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:06:41.202 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:06:44.912 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:06:44.961 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:08:22.349 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:08:26.038 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:08:26.087 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:09:51.991 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:09:55.729 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:09:55.780 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:09:55.937 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:09:56.480 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:09:57.168 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:11:00.749 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:11:04.737 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:11:04.786 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:11:04.947 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:11:05.525 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:11:06.215 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:11:06.966 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:17:43.627 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:17:47.292 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:17:47.344 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:17:47.498 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:17:48.028 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:17:48.811 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:17:49.614 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:17:50.316 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:21:29.618 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:21:33.182 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:21:33.230 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:21:33.369 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:21:33.907 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:21:34.644 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:21:35.484 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:21:36.198 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:22:16.921 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:22:37.362 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:22:57.743 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:23:18.110 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:23:39.960 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:24:02.043 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:24:22.378 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:24:42.727 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:25:03.004 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:25:23.304 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:31:48.174 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:31:51.794 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:31:51.853 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:31:52.010 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:31:52.501 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:31:53.187 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:31:54.145 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:34:19.380 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:34:23.517 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:34:23.566 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:34:23.751 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:34:24.283 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:34:25.185 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:34:26.056 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:34:26.824 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:36:52.449 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:36:56.035 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:36:56.099 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:36:56.268 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:36:56.758 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:36:57.439 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:36:58.377 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:36:59.133 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:41:55.976 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:41:59.972 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:42:00.037 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:42:00.226 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:42:00.850 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:42:02.049 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:42:03.291 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:42:04.184 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:45:38.112 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:45:41.832 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:45:41.877 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:45:42.037 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:45:42.587 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:45:43.260 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:45:44.258 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:45:44.980 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:46:46.807 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:46:50.394 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:46:50.464 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:46:50.617 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:46:51.183 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:46:51.854 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:46:52.799 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:46:53.556 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:48:28.163 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:48:32.081 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:48:32.125 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:48:32.280 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:48:32.804 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:48:33.519 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:48:34.339 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:48:35.068 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:48:55.439 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:51:13.113 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:51:17.041 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:51:17.080 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:51:17.231 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:51:17.803 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:51:18.600 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:52:28.093 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:52:31.902 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:52:31.957 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:52:32.140 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:52:32.654 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:52:33.406 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:52:34.324 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:55:57.756 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:56:01.735 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:56:01.800 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:56:02.022 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:56:02.479 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:56:03.232 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:56:04.416 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:58:03.587 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:58:07.152 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:58:07.189 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:58:07.342 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:58:07.892 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:58:08.573 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:58:09.575 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+00:58:57.098 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+00:59:01.102 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+00:59:01.154 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+00:59:01.346 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+00:59:01.921 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+00:59:03.002 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+01:02:02.623 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:02:06.341 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:02:06.388 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:02:06.560 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+01:02:07.121 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+01:02:07.814 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+01:10:32.349 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:10:37.655 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:10:37.739 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:10:37.977 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+01:10:38.424 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+01:10:39.855 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+01:12:55.927 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:13:00.591 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:13:00.664 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:13:00.912 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+01:13:01.439 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+01:13:02.609 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+01:14:38.843 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:14:43.965 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:14:44.027 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:14:44.229 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+01:14:44.768 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+01:14:45.711 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+01:23:36.558 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:23:41.045 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:23:41.101 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:23:41.291 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+01:23:41.764 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+01:23:42.655 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+01:25:29.729 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:25:40.661 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:25:41.309 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:25:41.769 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+01:25:42.577 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+01:25:42.907 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:25:49.421 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+01:25:51.411 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:25:51.518 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:25:52.076 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+01:25:52.630 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+01:25:53.919 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+01:27:42.841 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:27:48.010 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:27:48.059 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:27:48.273 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+01:27:48.767 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+01:27:49.683 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+01:31:44.723 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:31:49.311 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:31:49.375 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:31:49.574 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+01:31:50.080 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+01:31:51.015 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+01:32:45.272 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+01:32:50.492 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+01:32:50.555 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+01:32:50.803 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+01:32:51.249 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+01:32:52.519 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:48:32.885 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+02:48:36.247 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+02:48:36.291 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+02:48:36.429 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+02:48:36.968 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+02:48:37.641 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:48:46.896 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:49:26.840 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+02:49:30.273 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+02:49:30.313 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+02:49:30.452 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+02:49:31.002 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+02:49:31.660 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:49:40.407 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:50:29.693 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+02:50:33.142 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+02:50:33.187 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+02:50:33.329 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+02:50:33.855 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+02:50:34.527 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:50:38.489 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:52:01.671 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+02:52:08.790 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+02:52:08.922 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+02:52:09.374 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+02:52:09.946 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+02:52:11.711 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:52:20.570 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:56:09.064 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+02:56:15.190 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+02:56:15.292 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+02:56:15.644 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+02:56:16.234 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+02:56:17.960 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:56:58.416 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:57:00.158 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:58:25.327 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+02:58:30.680 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+02:58:30.739 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+02:58:31.005 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+02:58:31.504 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+02:58:32.572 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:58:37.421 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+02:58:39.562 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:00:27.391 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+03:00:36.153 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+03:00:36.488 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+03:00:37.686 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+03:00:37.800 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+03:00:43.030 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:00:49.165 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:00:51.347 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:01:12.257 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:02:19.276 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+03:02:25.549 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+03:02:25.636 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+03:02:25.881 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+03:02:26.364 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+03:02:27.477 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:02:32.461 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:02:34.759 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:02:55.592 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:07:54.090 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+03:07:58.464 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+03:07:58.544 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+03:07:58.741 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+03:07:59.210 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+03:08:00.109 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:08:04.522 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:08:05.668 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:08:26.436 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:08:27.520 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:27:04.367 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+03:27:08.706 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+03:27:08.771 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+03:27:08.965 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+03:27:09.425 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+03:27:10.336 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:27:14.311 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:27:15.300 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:27:35.755 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:27:36.898 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:27:57.599 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:28:18.195 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:28:38.778 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:28:41.896 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:29:04.772 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:29:25.173 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:29:45.788 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:30:06.395 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:30:26.930 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:38:54.079 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+03:38:59.459 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+03:38:59.643 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+03:39:00.505 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+03:39:00.571 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+03:39:02.252 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:39:13.509 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:39:14.483 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:45:20.753 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+03:45:25.712 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+03:45:25.766 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+03:45:25.995 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+03:45:26.495 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+03:45:27.772 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:45:31.929 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:45:33.064 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:50:57.007 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+03:51:02.525 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+03:51:02.653 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+03:51:03.002 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+03:51:03.469 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+03:51:05.409 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:51:13.620 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:51:14.670 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:51:35.146 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:51:36.181 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:51:56.883 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:52:17.464 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:52:38.041 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:52:41.089 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:53:03.889 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:53:24.552 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:53:45.279 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:54:05.793 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:54:06.985 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:57:16.826 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+03:57:22.358 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+03:57:22.464 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+03:57:22.835 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+03:57:23.533 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+03:57:25.368 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:57:30.282 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:57:33.453 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:57:36.993 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:57:57.684 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:58:19.103 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:58:21.388 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:58:28.587 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:58:32.888 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:58:34.734 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:58:37.949 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:58:39.880 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+03:58:43.573 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:00:39.630 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:00:44.100 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:00:44.154 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:00:44.358 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:00:44.869 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:00:45.760 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:00:49.712 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:00:52.343 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:00:56.459 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:01:17.130 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:01:18.707 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:01:24.894 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:01:28.761 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:01:30.274 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:01:33.395 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:01:34.720 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:01:38.391 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:12:30.658 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:12:35.075 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:12:35.121 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:12:35.306 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:12:35.825 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:12:36.748 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:12:41.355 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:12:44.903 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:12:50.120 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:13:10.802 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:13:12.548 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:13:18.245 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:13:22.838 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:13:24.443 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:13:27.615 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:13:29.445 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:13:33.078 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:13:34.458 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:13:54.913 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:17:15.223 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:17:19.696 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:17:19.752 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:17:19.961 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:17:20.416 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:17:21.333 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:17:25.703 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:17:29.040 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:17:33.268 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:17:54.035 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:17:55.645 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:18:02.003 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:18:05.749 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:18:07.309 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:18:10.163 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:18:11.975 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:18:15.815 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:18:17.161 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:18:37.796 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:18:38.626 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:18:39.172 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+04:18:39.828 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+04:26:45.360 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:26:49.725 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:26:49.768 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:26:49.955 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:26:50.447 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:26:51.347 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:26:55.976 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:26:59.095 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:27:03.504 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:27:24.259 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:27:25.944 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:27:33.945 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:27:39.009 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:27:41.192 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:27:44.438 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:27:46.223 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:27:49.919 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:27:51.304 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:28:11.866 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:28:12.839 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:28:13.393 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+04:28:14.108 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+04:28:19.297 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+04:28:41.312 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+04:28:41.693 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+04:28:41.944 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+04:28:43.177 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+04:33:16.281 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:33:20.647 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:33:20.702 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:33:20.884 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:33:21.390 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:33:22.303 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:26.805 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:30.461 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:35.273 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:37.011 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:42.991 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:46.771 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:48.389 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:51.370 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:53.128 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:56.721 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:58.028 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:59.219 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:33:59.789 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+04:34:00.436 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+04:34:05.786 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+04:34:08.026 [main] INFO  OMS_Test.OMS_STORI_Test - Rejecting the Order
+04:34:10.074 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+04:34:10.426 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+04:34:10.810 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+04:34:12.166 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+04:41:21.282 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:41:25.791 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:41:25.850 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:41:26.046 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:41:26.539 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:41:27.452 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:41:32.100 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:41:35.514 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:41:40.251 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:41:41.969 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:41:48.134 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:41:51.876 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:41:53.491 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:41:56.517 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:41:58.265 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:42:02.097 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:42:03.460 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:42:04.563 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:42:05.079 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+04:42:05.718 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+04:42:10.635 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+04:44:57.589 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:45:02.470 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:45:02.527 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:45:02.773 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:45:03.300 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:45:04.229 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:08.776 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:12.049 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:16.053 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:17.686 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:24.220 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:28.454 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:30.140 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:33.215 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:35.055 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:38.788 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:40.135 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:45:43.609 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+04:45:44.901 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+04:45:50.814 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+04:47:34.086 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:47:38.818 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:47:38.876 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:47:39.085 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:47:39.582 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:47:40.562 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:47:45.415 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:47:48.555 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:47:52.863 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:47:54.547 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:48:01.462 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:48:05.910 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:48:07.695 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:48:10.512 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:48:11.965 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:48:15.893 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:48:17.411 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:48:20.775 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+04:48:21.998 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+04:48:28.409 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+04:50:32.284 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:50:37.032 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:50:37.107 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:50:37.332 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:50:37.823 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:50:38.825 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:50:43.493 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:50:46.712 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:50:51.907 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:50:53.859 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:51:02.191 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:51:06.695 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:51:08.405 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:51:11.459 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:51:12.920 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:51:16.438 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:51:17.802 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:51:21.022 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+04:51:22.286 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+04:51:28.233 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+04:54:03.048 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:54:07.548 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:54:07.614 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:54:07.821 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:54:08.320 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:54:09.265 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:13.884 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:17.555 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:22.433 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:24.483 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:30.798 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:34.682 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:36.363 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:39.401 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:40.879 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:44.560 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:45.993 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:54:49.162 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+04:54:50.865 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+04:54:56.483 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+04:57:10.663 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+04:57:15.113 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+04:57:15.164 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+04:57:15.355 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+04:57:15.849 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+04:57:16.782 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:21.440 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:25.274 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:29.492 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:32.776 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:38.489 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:42.259 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:43.919 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:46.903 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:48.703 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:52.228 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:53.585 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+04:57:56.908 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+04:57:58.125 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+04:58:04.173 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:01:16.398 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:01:20.911 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:01:20.977 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:01:21.168 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:01:21.664 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:01:22.591 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:01:27.163 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:01:30.531 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:01:35.028 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:01:36.782 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:01:44.021 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:01:48.645 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:01:50.690 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:01:53.992 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:01:55.693 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:01:59.470 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:02:00.931 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:02:04.446 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:02:05.750 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:02:12.393 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:05:43.737 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:05:49.015 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:05:49.065 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:05:49.283 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:05:49.831 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:05:51.040 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:05:55.414 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:05:59.241 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:06:05.049 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:06:07.130 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:06:14.766 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:06:19.373 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:06:21.072 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:06:24.472 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:06:26.008 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:06:29.412 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:06:30.393 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:06:34.368 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:06:35.668 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:06:42.596 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:32:50.002 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:32:54.353 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:32:54.420 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:32:54.604 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:32:55.096 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:32:56.064 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:00.562 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:04.868 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:09.568 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:11.402 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:17.611 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:22.138 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:23.720 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:26.783 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:28.550 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:32.159 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:33.533 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:33:36.946 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:33:38.101 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:33:43.317 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:36:02.135 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:36:06.915 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:36:06.976 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:36:07.172 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:36:07.659 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:36:08.580 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:13.498 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:17.211 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:21.697 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:23.690 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:29.813 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:34.002 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:35.341 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:38.373 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:40.136 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:43.535 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:44.437 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:36:47.414 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:36:48.591 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:36:53.908 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:38:52.875 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:39:00.545 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:39:00.620 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:39:00.972 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:39:01.497 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:39:03.283 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:06.088 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:39:10.273 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:14.016 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:39:14.106 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:39:14.599 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:39:15.088 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:39:16.543 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:17.323 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:23.783 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:24.415 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:26.684 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:28.290 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:35.285 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:38.267 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:39.513 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:45.700 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:46.536 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:47.818 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:51.740 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:51.909 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:53.196 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:54.128 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:58.152 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:58.267 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:39:59.979 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:40:00.699 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:40:04.417 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:40:05.993 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:40:06.083 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:40:08.265 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:40:12.599 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:40:13.329 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:40:14.265 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:40:19.122 [main] INFO  OMS_Test.OMS_STORI_Test - Rejecting the Order
+05:40:23.843 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:40:27.482 [main] INFO  OMS_Test.OMS_STORI_Test - Rejecting the Order
+05:42:45.342 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:42:49.809 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:42:49.851 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:42:50.063 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:42:50.536 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:42:51.442 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:42:55.943 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:42:59.139 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:43:05.195 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:43:07.012 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:43:13.383 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:43:17.127 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:43:18.456 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:43:21.162 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:43:22.958 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:43:26.582 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:43:27.949 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:43:31.063 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:43:32.695 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:43:38.312 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:43:41.719 [main] INFO  OMS_Test.OMS_STORI_Test - Rejecting the Order
+05:45:40.865 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:45:49.190 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:45:49.291 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:45:49.653 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:45:50.535 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:45:54.942 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:45:55.257 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:46:02.627 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:46:02.714 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:46:03.236 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:46:03.320 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:04.182 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:46:06.217 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:07.732 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:11.533 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:13.700 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:16.597 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:17.934 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:23.727 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:27.132 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:30.059 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:35.066 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:35.742 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:38.592 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:40.271 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:41.509 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:42.414 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:43.404 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:45.059 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:47.408 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:47.713 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:49.329 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:51.889 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:53.471 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:46:53.655 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:46:55.560 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:46:59.549 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:47:01.414 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:47:06.800 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:47:10.908 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:47:11.501 [main] INFO  OMS_Test.OMS_STORI_Test - Rejecting the Order
+05:47:14.543 [main] INFO  OMS_Test.OMS_STORI_Test - Rejecting the Order
+05:47:16.446 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+05:47:16.895 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+05:47:17.383 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+05:47:18.822 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+05:47:18.999 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+05:47:19.877 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+05:47:20.217 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+05:47:21.453 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+05:54:28.355 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:54:32.633 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:54:32.702 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:54:37.664 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+05:54:37.764 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+05:54:40.550 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+05:54:40.642 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+05:54:52.186 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+05:54:52.468 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+05:54:53.409 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+05:54:55.805 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+05:54:56.662 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+05:54:58.490 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+05:54:59.219 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+05:54:59.219 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+05:54:59.511 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+05:55:00.718 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+05:55:00.884 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+05:55:00.884 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+05:55:01.373 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11742
+05:55:01.816 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+05:55:21.060 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:55:21.478 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+05:55:21.479 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+05:55:23.411 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+05:55:24.538 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+05:55:39.355 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+05:55:39.365 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+05:55:39.426 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+05:55:40.247 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:55:45.564 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:55:48.127 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:55:51.645 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:55:53.114 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:55:59.183 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:56:03.811 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:56:06.159 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:56:08.651 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:56:10.345 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:56:13.994 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:56:15.017 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:56:35.524 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+05:56:38.441 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+05:56:39.591 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+05:56:45.057 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+05:57:07.938 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+05:57:08.346 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+05:57:08.582 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+05:57:09.746 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+05:59:43.667 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+05:59:48.269 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+05:59:48.320 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+05:59:53.207 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+05:59:53.316 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+05:59:56.124 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+05:59:56.215 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:00:05.076 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:00:05.442 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:00:06.193 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:00:08.940 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:00:09.792 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:00:11.787 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:00:12.554 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:00:12.554 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:00:12.939 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:00:14.075 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:00:14.253 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:00:14.253 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:00:15.288 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11745
+06:00:15.879 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:00:37.554 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:00:38.063 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:00:38.064 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:00:40.255 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:00:40.992 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:00:57.952 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:00:57.972 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:00:58.039 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:00:59.113 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:02.953 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:05.554 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:08.881 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:10.033 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:16.230 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:19.448 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:21.244 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:23.933 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:25.662 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:29.285 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:30.619 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:51.132 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:01:54.330 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:01:55.525 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:02:00.793 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+06:02:04.061 [main] INFO  OMS_Test.OMS_STORI_Test - Rejecting the Order
+06:02:07.926 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:02:08.312 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:02:08.661 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:02:09.844 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+06:06:46.632 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:06:50.990 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:06:51.058 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:06:51.249 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:06:51.738 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:06:52.634 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:06:57.109 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:00.355 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:05.193 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:06.947 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:13.104 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:17.170 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:18.732 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:21.382 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:23.165 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:26.801 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:28.668 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:07:31.524 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:07:32.673 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:07:37.976 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+06:07:38.343 [main] INFO  OMS_Test.OMS_STORI_Test - Rejecting the Order
+06:20:16.590 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:20:20.182 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:20:20.231 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:20:20.373 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:20:20.947 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:20:21.730 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:25.998 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:28.507 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:32.846 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:34.338 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:39.694 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:42.498 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:44.721 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:47.262 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:48.970 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:52.470 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:53.698 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:20:56.653 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:20:57.666 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:21:02.731 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+06:21:03.048 [main] INFO  OMS_Test.OMS_STORI_Test - Rejecting the Order
+06:21:06.403 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:21:06.734 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:21:07.059 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:21:08.194 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
+06:28:07.128 [main] INFO  OMS_Test.OMS_STORI_Test - Navigated to Login Page
+06:28:10.687 [main] INFO  OMS_Test.OMS_STORI_Test - Verifying successful login.
+06:28:10.728 [main] INFO  OMS_Pages.OMS_Loginpage - Show password eye icon validated successfully
+06:28:14.821 [main] INFO  OMS_Test.OMS_STORI_Test - New Customer registered successfully
+06:28:14.892 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to collect order & shipping details form
+06:28:17.243 [main] INFO  OMS_Test.OMS_STORI_Test - Order and shipping details successfully added
+06:28:17.319 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to LINE ITEM form
+06:28:22.190 [main] INFO  OMS_Test.OMS_STORI_Test - line item successfully added to item list
+06:28:22.305 [main] INFO  OMS_Test.OMS_STORI_Test - SL NAME PRICE UNIT UOM QTY SUBTOTAL DISCOUNT TAX TOTAL
+1 Greek Yogurt Apple Guava (Goat Milk) 340.00 210.00 Gram 150 10710000.00 0.00 50.00 10710050.00
+2 Courtyard Farms: Goat Milk Kefir-Classic 390.00 400.00 Ml 250 39000000.00 0.00 60.00 39000060.00
+06:28:23.073 [main] INFO  OMS_Test.OMS_STORI_Test - line item edit option is displayed
+06:28:24.779 [main] INFO  OMS_Test.OMS_STORI_Test - line item details updated successfully
+06:28:25.645 [main] INFO  OMS_Test.OMS_STORI_Test - line item removed from item list successfully
+06:28:26.893 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to PAYMENT DETAILS form
+06:28:27.423 [main] INFO  OMS_Test.OMS_STORI_Test -  payment method selected by cheque
+06:28:27.423 [main] ERROR OMS_Test.OMS_STORI_Test - There are no options to enter future payment details
+06:28:27.659 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER SUMMARY form
+06:28:28.633 [main] INFO  OMS_Test.OMS_STORI_Test - Order creation date:  Apr 7, 2022, 5:00:00 AM
+06:28:28.745 [main] INFO  OMS_Test.OMS_STORI_Test - Order created successfully
+06:28:28.745 [main] INFO  OMS_Test.OMS_STORI_Test - successfully navigated to ORDER STATUS page
+06:28:29.780 [main] INFO  OMS_Test.OMS_STORI_Test - Order number:Your Order Reference is #11748
+06:28:30.242 [main] INFO  OMS_Test.OMS_STORI_Test - create new order button displayed and successfully navigated to order creation page
+06:28:47.315 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:28:47.718 [main] INFO  OMS_Test.OMS_STORI_Test - Searched order successfully by name
+06:28:47.718 [main] INFO  OMS_Test.OMS_STORI_Test - created order displayed on order list
+06:28:49.550 [main] INFO  OMS_Test.OMS_STORI_Test - Searched existing customer by name successfully
+06:28:50.233 [main] INFO  OMS_Test.OMS_STORI_Test - Address Details
+657567
+nishijaaaa@gmail.com
+Home land city
+hape town
+delhi
+India
+Iceland
+06:29:03.616 [main] INFO  OMS_Test.OMS_STORI_Test - close button displayed and successfully navigated to findorders page
+06:29:03.630 [main] INFO  OMS_Test.OMS_STORI_Test - Entering to Manage Orders Tab
+06:29:03.691 [main] INFO  OMS_Test.OMS_STORI_Test - By default to Find Orders Tab
+06:29:04.331 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:08.223 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:10.978 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:14.937 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:16.482 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:21.361 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:24.367 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:25.518 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:27.911 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:29.562 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:32.897 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:34.122 [main] INFO  OMS_Test.OMS_STORI_Test - Searching the Order
+06:29:37.039 [main] INFO  OMS_Test.OMS_STORI_Test - Generating the Excel
+06:29:38.002 [main] INFO  OMS_Test.OMS_STORI_Test - Editing the Order
+06:29:42.101 [main] INFO  OMS_Test.OMS_STORI_Test - Canceling the Order
+06:29:42.373 [main] INFO  OMS_Test.OMS_STORI_Test - Rejecting the Order
+06:29:46.001 [main] INFO  OMS_Test.OMS_STORI_Test - Navigating to Sales Orders Tab
+06:29:46.312 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Entering to Sales Orders Tab
+06:29:46.560 [main] INFO  OMS_Pages.OMS_SalesOrdersPage - Finding the sales orders
+06:29:47.626 [main] INFO  OMS_Test.OMS_STORI_Test - user logged out successfully from OMS and restored back to login page when clicks on logout button
